@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Yq6LerRj2QfOPlTauLYYJ1Bkl3+K3ClAoDHY/AH9z+Q=",
+  "Source": "GraphApi",
+  "BasePath": "_content/GraphApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
